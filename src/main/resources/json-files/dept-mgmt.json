@@ -1,0 +1,46 @@
+[
+  {
+    "deptId": 1,
+    "deptName": "Production Support",
+    "deptLocation": "India",
+    "employeeDetails": [
+      {
+        "empId": 1,
+        "empName": "Aditi01",
+        "emailId": "aditi01@gmail.com"
+      },
+      {
+        "empId": 2,
+        "empName": "Aditi02",
+        "emailId": "aditi02@gmail.com"
+      },
+      {
+        "empId": 3,
+        "empName": "Aditi03",
+        "emailId": "aditi03@gmail.com"
+      }
+    ]
+  },
+  {
+    "deptId": 2,
+    "deptName": "Production Support",
+    "deptLocation": "UK",
+    "employeeDetails": [
+      {
+        "empId": 1,
+        "empName": "Aditi01",
+        "emailId": "aditi01@gmail.com"
+      },
+      {
+        "empId": 2,
+        "empName": "Aditi02",
+        "emailId": "aditi02@gmail.com"
+      },
+      {
+        "empId": 3,
+        "empName": "Aditi03",
+        "emailId": "aditi03@gmail.com"
+      }
+    ]
+  }
+]
