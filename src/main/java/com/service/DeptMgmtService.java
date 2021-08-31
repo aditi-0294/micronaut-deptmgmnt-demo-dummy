@@ -12,6 +12,11 @@ public interface DeptMgmtService {
     public List<ObjectFactory> getAllDeptData();
 
     // get data for a particular department
-    public List<ObjectFactory> getDeptDataById(int deptId);
+    public ObjectFactory getDeptDataById(int deptId);
+
+    // creating new department details
+    public ObjectFactory createNewDepartment(ObjectFactory objectFactory);
+
+
 
 }
